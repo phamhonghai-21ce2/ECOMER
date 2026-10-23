@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770094000610",
+    "project_id": "admin-33876",
+    "storage_bucket": "admin-33876.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770094000610:android:50303664d66ef3c74571bb",
+        "android_client_info": {
+          "package_name": "com.example.noteadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6uKCH5wZItYvaKtojDlDDeBB1DYc_AUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
